@@ -251,36 +251,36 @@ REA is a novel problem domain established to address this structural void. It co
 
 ## Normative References
 
-* [RFC9334]: {{RFC9334}}
-* [RFC9711]: {{RFC9711}}
+* [RFC9334]: https://datatracker.ietf.org/doc/html/rfc9334
+* [RFC9711]: https://datatracker.ietf.org/doc/html/rfc9711
 
 ## Informative References
 
-* [I-D.ietf-rats-endorsements]: {{I-D.ietf-rats-endorsements}}
-* [I-D.ietf-scitt-architecture]: {{I-D.ietf-scitt-architecture}}
-* [I-D.ietf-scitt-scrapi]: {{I-D.ietf-scitt-scrapi}}
-* [I-D.ietf-scitt-receipts-ccf-profile]: {{I-D.ietf-scitt-receipts-ccf-profile}}
+* [I-D.ietf-rats-endorsements]: https://datatracker.ietf.org/doc/html/draft-ietf-rats-endorsements
+* [I-D.ietf-scitt-architecture]: https://datatracker.ietf.org/doc/html/draft-ietf-scitt-architecture
+* [I-D.ietf-scitt-scrapi]: https://datatracker.ietf.org/doc/html/draft-ietf-scitt-scrapi
+* [I-D.ietf-scitt-receipts-ccf-profile]: https://datatracker.ietf.org/doc/html/draft-ietf-scitt-receipts-ccf-profile
 
 * [EXEC-GOV]:
     title: "Execution Governance: A Structural Control Layer for Autonomous Systems"
+    date: "2026"
     author:
       - fullname: "Anonymous"
-    date: 2026
 
 * [CISCO-DUO-POLICY]:
     title: "Duo Administration - Policy & Control"
+    date: "2026"
     author:
       - org: "Cisco Duo"
-    date: 2026
 
 * [CALDARELLI-2025]:
     title: "Can Artificial Intelligence solve the blockchain oracle problem? Unpacking the Challenges and Possibilities"
+    date: "2025"
     author:
       - fullname: "G. Caldarelli"
-    date: 2025
 
 * [W3C-VC-2.0]:
     title: "Verifiable Credentials Data Model v2.0"
+    date: "2025"
     author:
       - org: "W3C"
-    date: 2025
